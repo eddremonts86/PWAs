@@ -1,0 +1,80 @@
+@media (max-width: 1330px ) {
+    .G-information_header {
+        font-size: 2.3rem;
+        line-height: 2;
+    }
+}
+
+@media (max-width: 1024px ) {
+    .G-information_header {
+        font-size: 1.8rem;
+        line-height: 1.5;
+    }
+
+    git stat
+    .G-information {
+        margin: 0 auto;
+        padding: 10px;
+        background: #eee;
+        color: #212121;
+    }
+
+    .hero .text h1 {
+        margin: 0;
+        font-size: 41px;
+    }
+    .tolate {
+        font-size: 45px;
+        line-height: 1.5;}
+}
+
+
+    @media screen and (max-width: 768px) {
+    .hero .text h1 {
+        font-size: 35px;
+    }
+
+    .video_iframe {
+
+        height: 500px
+    }
+
+    .tolate {
+        font-size: 29px;
+        line-height: 1;
+    }
+
+    .navbar.main-navbar {
+        background: rgba(0, 0, 0, 0.14);
+    }
+
+    .G-information {
+        margin: 0 auto;
+        padding: 5px;
+        background: #eee;
+        color: #212121;
+    }
+
+    .mobile_video {
+        background: rgba(0, 0, 0, 0.38);
+        padding: 10px;
+        height: auto;
+    }
+
+    body > section.G-information > div > div > div:nth-child(2) > video {
+        width: 100%;
+        height: auto;
+        border-radius: 0px;
+    }
+    .info {
+
+        padding: 8%;
+        border-radius: 4px;
+        margin: 0px;
+    }
+
+    #project > div.container > div,#features > div.container > div{
+        padding: 5px;
+    }
+}
+
